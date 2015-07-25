@@ -16,8 +16,7 @@ var LinkedIn = require('linkedin-oauth-agent');
 
 // Open popup
 LinkedIn({
-  client_id: client_id,
-  scope: 'profile'
+  client_id: client_id
 }, function(err, code) {
   // send "code" to server.js
 })
