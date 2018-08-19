@@ -1,6 +1,6 @@
 {
   "name": "linkedin-oauth-agent",
-  "version": "1.0.3",
+  "version": "2.0.0",
   "description": "Dead simple, low-level agent for authenticating with LinkedIn's oAuth",
   "keywords": [
     "oauth",
